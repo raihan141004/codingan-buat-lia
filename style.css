@@ -1,8 +1,8 @@
 body {
   font-family: "Poppins", sans-serif;
-  background: center / contain no-repeat url("music/foto2.jpeg"),
-    right / contain no-repeat url("music/foto.jpeg"),
-    left / contain no-repeat url("music/foto3.jpeg");
+  background: center / contain no-repeat url("foto2.jpeg"),
+    right / contain no-repeat url("foto.jpeg"),
+    left / contain no-repeat url("foto3.jpeg");
   background-size: 34%;
   display: flex;
   justify-content: center;
